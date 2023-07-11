@@ -1,2 +1,7 @@
 # IOT_GAS_LEAKAGE_FIRE_SENSING
 REAL TIME GAS LEAKAGE AND FIRE SENSING SYSTEM FOR INDUSTRIAL SECURITY
+
+**ABSTRACT**
+                  Industrial disasters are caused either by human / technical failures. Negligence, incompetence & accidents in managing the prescribed systems leads to heavy losses. Particularly gas leakage and fire accidents can be fatal and leads to material loss. The major cause of explosion, firing or suffocation is majorly based on the physical/chemical properties such as toxicity, density, flammability, etc. In parallel to technological upgradations, industrial disasters are also incremental. The fatality is on high side due to the release of toxic pollutants, gases and also due to fire accidents in recent years.
+                  Estimations of death vary from 3,800 to as many as 16,000, but the government figures an estimation of 15,000 killed over the years due to the exposure to toxic gases. Some harmful gases being heavier than air, do not disperse easily. It may then lead to choking when inhaled and may cause explosion.
+                  Therefore, the working environment should be routinely checked and maintained in order to prevent such disassembly. The system designed is to very useful in the industries as it helps to detect the gas leakage and fire explosions using various sensors and immediately informs to the concerned authorities without human involvement. The data is further stored in cloud for further references.
